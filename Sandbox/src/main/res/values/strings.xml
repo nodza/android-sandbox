@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sandbox</string>
+    <string name="text_one">Welcome to Activity I</string>
+    <string name="placeholder_two">Welcome to Activity II</string>
+    <string name="button_text1">Go to activity 2</string>
+    <string name="btn_json">JSON Activity</string>
+    <string name="btn_presidents">Meet Your Presidents</string>
+</resources>
