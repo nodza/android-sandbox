@@ -30,5 +30,11 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/btn_presidents"
         android:onClick="onPresButtonClick" />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/youtube_button"
+        android:onClick="onYtButtonClick" />
 
 </LinearLayout>

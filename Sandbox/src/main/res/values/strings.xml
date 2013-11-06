@@ -5,4 +5,6 @@
     <string name="button_text1">Go to activity 2</string>
     <string name="btn_json">JSON Activity</string>
     <string name="btn_presidents">Meet Your Presidents</string>
+    <string name="youtube_title">Youtube Star</string>
+    <string name="youtube_button">Youtube Videos</string>
 </resources>

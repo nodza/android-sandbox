@@ -31,6 +31,12 @@ public class MainActivity extends Activity {
         startActivity(intent);
     }
 
+    public void onYtButtonClick(View view)
+    {
+        Intent videoIntent = new Intent(MainActivity.this, YoutubeActivityList.class);
+        startActivity(videoIntent);
+    }
+
 //    public void onJsonClick(View view)
 //    {
 //        Intent intent = new Intent(MainActivity.this, JSONActivity.class);
